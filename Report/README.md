@@ -11,7 +11,7 @@
     <tbody>
         <tr>
             <td>Students (ID)</td>
-           <td>Pooja Ramesh (219022) ,Sanjana Shivadathathri (219466),Vedant Shivnekar (217490),Anupama Ravi (219462) </td> 
+           <td>Anupama Ravi (219462) </td> 
         </tr>
         <tr>
             <td>Semester</td>
